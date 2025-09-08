@@ -124,7 +124,7 @@ You can view or download my resume in PDF format:
 
 [![Resume PDF](https://img.shields.io/badge/Download_Resume-FF6B6B?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/RayyanHassan/RayyanHassan/raw/main/assets/Rayyan_Hassan_Resume.pdf)
 
-*Key highlights in resume:*
+*Key highlights :*
 1. Coding since 2019
 2. Made over 50+ awesome projects
 3. Always ready for something new to try, something new to learn
