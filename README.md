@@ -122,7 +122,7 @@ The overview below showcases my pinned repositories. Each one represents a uniqu
 
 You can view or download my resume in PDF format:
 
-[![Resume PDF](https://img.shields.io/badge/Download_Resume-FF6B6B?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)]([https://github.com/RayyanHassan/RayyanHassan/raw/main/assets/Rayyan_Hassan_Resume.pdf](https://github.com/Wiz-Rayyan/Wiz-Rayyan/blob/main/Rayyan-FrontendDeveloper.pdf))
+[![Resume PDF](https://img.shields.io/badge/Download_Resume-FF6B6B?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/Wiz-Rayyan/Wiz-Rayyan/blob/main/Rayyan-FrontendDeveloper.pdf)
 
 *Key highlights :*
 1. Coding since 2019
